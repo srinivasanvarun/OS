@@ -1,0 +1,5 @@
+total 32
+-rw-r--r--@ 1 varunsrinivasan  staff  2975 Apr 24 10:35 Shell.c
+drwxr-xr-x  2 varunsrinivasan  staff    68 Apr 24 10:36 dump
+-rwxr-xr-x  1 varunsrinivasan  staff  9700 Apr 24 10:35 shell
+-rw-r--r--  1 varunsrinivasan  staff     0 Apr 24 10:36 text.txt
